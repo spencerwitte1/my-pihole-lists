@@ -1,2 +1,33 @@
-id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1585426667,1593348722,Default,1609016914
+id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1628646815,1629578594,"Migrated from /etc/pihole/adlists.list",,87094,0,2
+2,https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt,1,1628820780,1629578594,,1629578656,14020,0,2
+3,https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt,1,1628820792,1629578594,,1629578658,26568,0,2
+5,https://v.firebog.net/hosts/static/w3kbl.txt,1,1628820805,1629578594,,1629578660,903,0,2
+6,https://adaway.org/hosts.txt,1,1628820810,1629578594,,1629578662,8182,0,2
+7,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1628820849,1629578594,,1629578663,2701,0,2
+8,https://v.firebog.net/hosts/AdguardDNS.txt,1,1628820849,1629578594,,1629578667,38148,0,2
+9,https://v.firebog.net/hosts/Admiral.txt,1,1628820849,1629578594,,1629578669,662,0,2
+10,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1628820849,1629578594,,1629578673,42284,0,2
+11,https://v.firebog.net/hosts/Easylist.txt,1,1628820864,1629578594,,1629578675,12329,0,2
+12,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&amp;showintro=0&amp;mimetype=plaintext,1,1628820864,1629578594,,1629578677,3621,0,2
+13,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts,1,1628820877,1629578594,,1629578678,9,0,2
+14,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1628820877,1629578594,,1629578680,17847,0,2
+15,https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt,1,1628820892,1629578594,,1629599623,5496,0,1
+16,https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt,1,1628820892,1629578594,,1629578684,10,0,2
+17,https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt,1,1628820902,1629578594,,1629578686,2735,0,2
+18,https://v.firebog.net/hosts/Prigent-Crypto.txt,1,1628820907,1629578594,,1629578688,13906,0,2
+20,https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt,1,1628820923,1629578594,,1629578689,2046,0,2
+22,https://phishing.army/download/phishing_army_blocklist_extended.txt,1,1628820933,1629578594,,1629599634,44152,0,1
+23,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt,1,1628820940,1629578594,,1629578695,317,0,2
+24,https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt,1,1628820944,1629578594,,1629578696,8154,0,2
+25,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts,1,1628820949,1629578594,,1629578698,2204,0,2
+26,https://urlhaus.abuse.ch/downloads/hostfile/,1,1628820953,1629578594,,1629599641,1092,0,1
+27,https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser,1,1628820959,1629578594,,1629578701,3548,0,2
+28,https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt,1,1628820964,1629578594,,1629578703,3996,0,2
+29,https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt,1,1628820969,1629578594,,1629578705,222,0,2
+30,https://v.firebog.net/hosts/Easyprivacy.txt,1,1628820974,1629578594,,1629578706,11394,0,2
+31,https://v.firebog.net/hosts/Prigent-Ads.txt,1,1628820978,1629578594,,1629578708,3670,0,2
+32,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts,1,1628820983,1629578594,,1629578710,1286,0,2
+33,https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt,1,1628820990,1629578594,,1629578711,375,0,2
+34,https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt,1,1628820994,1629578594,,1629578771,119761,0,2
+35,https://gist.github.com/hkamran80/779019103fcd306979411d44c8d38459,0,1628821001,1629578594,"Smart tv",,0,0,0
